@@ -3871,3 +3871,7 @@ input:checked + .slider:before {
 .dark ::placeholder {
   color: #d9d9d9 !important;
 }
+
+.aling-button-image{
+  margin-top: 20px !important;
+}
